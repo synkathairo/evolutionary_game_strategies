@@ -6,10 +6,9 @@ course project \
 Fall 2024\
 by Charles Zhu
 
-## Proposal
+## Overview
 
-This project proposes to study the evolutionary population games under incomplete information, and characterize how incomplete information may be utilized by players in a game which allows for cooperation. More details available in [proposal doc](./docs/proposal/bare_jrnl.pdf) and [report](./docs/report/report.pdf).
+This project focuses on the dynamics and stability behavior of evolutionary games. More details available in [proposal doc](./docs/proposal/bare_jrnl.pdf), [presentation](./docs/report/presentation.pdf), and [report](./docs/report/report.pdf).
 
 ## Simulation and modeling
-
-## Analysis
+Several evolutionary game dynamics are modeled using MATLAB.
